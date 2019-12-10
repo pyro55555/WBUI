@@ -1,0 +1,90 @@
+	
+	{
+	"ServerName":"-=OGC=- RAGPVP x100  S+/CF/EZTEK/Arkomatic/Cluster",
+	"ButtonTxt1":"Rules",
+	"ButtonTxt2":"Clusters",
+	"ButtonTxt3":"Mod Hotkeys",
+	"ButtonTxt4":"Rewards",
+	"ButtonTxt5":"Other Info",
+	"LinkButtonTxt1":"Discord",
+	"LinkButtonTxt2":"PVP Mod Pack",
+	"LinkButtonTxt3":"",
+	"LinkButtonTxt4":"",
+	"LinkButtonTxt5":"",
+	"LinkButton1":"https://discord.gg/P77Gvp8",
+	"LinkButton2":"https://steamcommunity.com/sharedfiles/filedetails/?id=1931874644",
+	"Link1Button3":"",
+	"Link2Button3":"",
+	"Link3Button3":"",
+	"Link4Button3":"",
+	"Link1Button4":"",
+	"Link2Button4":"",
+	"Link3Button4":"",
+	"Link4Button4":"",
+	"Link1Button5":"",
+	"Link2Button5":"",
+	"Link3Button5":"",
+	"Link4Button5":"",
+	"Tab1Panelcount":1,
+	"Tab2Panelcount":1,
+	"Tab3Panelcount":1,
+	"Tab4Panelcount":1,
+	"Tab5Panelcount":1,
+	"BackgroundTab1":15,
+	"BackgroundTab2":2,
+	"BackgroundTab3":0,
+	"BackgroundTab4":0,
+	"BackgroundTab5":0,
+	"Background3Color":"",
+	"FontColorButtons":"255,255,255",
+	"FontColorServerName":"255,255,255",
+	"FontColorTabTitles":"255,255,255",
+	"FontColorTabText":"255,255,255",
+	"UseSteamBrowserLink1":true,
+	"UseSteamBrowserLink2":true,
+	"Tab1Title1":"Server Rules",
+	"Tab1Title2":"",
+	"Tab1Title3":"",
+	"Tab2Title1":"Clustered Servers",
+	"Tab2Title2":"",
+	"Tab2Title3":"",
+	"Tab3Title1":"JP's GPS Navigation",
+	"Tab3Title2":"",
+	"Tab3Title3":"",
+	"Tab4Title1":"Earnable Rewards",
+	"Tab4Title2":"",
+	"Tab4Title3":"",
+	"Tab5Title1":"Custom Drops",
+	"Tab5Title2":"Boss Drops",
+	"Tab5Title3":"Offline Guard Protection",
+	"Tab1Text1":"Rule 1: Dont be a Dick
+Rule 2: Defensive foundationing around your base is Acceptable, However Glitching foundations under the map is not.
+Rule 3: Dont Wipe new players. it makes you a Dick.",
+	"Tab1Text2":"",
+	"Tab1Text3":"",
+	"Tab2Text1":"We have 3 Servers Clustered Together. Ragnarok, Valguero and Extinction,  so travel to any Obelisk and Add them to your Favourites too",
+	"Tab2Text2":"",
+	"Tab2Text3":"",
+	"Tab3Text1":"Pushing F7 while you have a GPS will bring up a GPS and Map HUD
+Pushing F8 will bring up the settings for it.",
+	"Tab3Text2":"",
+	"Tab3Text3":"",
+	"Tab4Text1":"W have Custom Rewards on this Server. Just craft a TCs Rewards Vault to claim them
+You can get a Free Item Pack and Starter base for 1 Time only. 
+
+You will earn 20 ARC every hour you play on the server!
+Spend Ark to get Base/item Upgrades or Max Level Dinos
+",
+	"Tab4Text2":"",
+	"Tab4Text3":"",
+	"Tab5Text1":"All Drops and Crates have custom items in them Designed for pvp. Drops with an orange ring around them have a chance to Drop Blueprints",
+	"Tab5Text2":"All Boss Drops have their element Increased.
+Gamma = 100 Element, Gamma Trophy + Gamma King Titan Trophy
+Beta = 175 Element, Beta Trophy  + Beta King Titan Trophy
+Alpha = 250 Element, Alpha Trophy  + Alpha King Titan Trophy
+",
+	"Tab5Text3":"Bases using this can Still Be Raided offline. However it will Significantly increase the Defence of a Base.
+* Dinos will be invincible inside. 
+* Structures will have x6 HP.  
+* Turrets will do 5x Damage."
+	}
